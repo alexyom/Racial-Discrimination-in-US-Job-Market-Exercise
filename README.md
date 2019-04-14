@@ -1,1 +1,1 @@
-# Racial-Discrimination-in-US-Job-Market-Exercise
+# Statistical Analysis Exercises
